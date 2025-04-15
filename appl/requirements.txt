@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+scikit-image
+numpy
+joblib
+scikit-learn
+tensorflow
+Pillow
+xgboost
